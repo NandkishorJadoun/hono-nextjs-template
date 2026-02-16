@@ -1,1 +1,4 @@
-# hono-nextjs
+```
+bun install
+bun dev
+```
